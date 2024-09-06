@@ -18,7 +18,7 @@ La fonction `printf()`sert à afficher du texte sur la console.
 ```c
 for(int i = 0; i<4 ; i++)
 {
-
+    printf("je modifie mon code")
 }
 ```
 
