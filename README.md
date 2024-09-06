@@ -10,14 +10,11 @@ La fonction `printf()`sert à afficher du texte sur la console.
 [hyperText](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
 
-```py
-inport math
+```c
+for(int i = 0; i<4 ; i++)
+{
 
-a = 1
-b = 2
-
-print(a+b)
-
+}
 ```
 
 
